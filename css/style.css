@@ -1,5 +1,17 @@
 body{
     background-color: #162927;
 }
-nav
+nav{
+    text-align: center;
+}
+nav a{
+    color: whitesmoke;
+}
+nav a:hover{
+    color: aqua;
+}
+#foot{
+    background-color: #ff79f4;
+    text-align: center
+}
 #
